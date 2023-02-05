@@ -17,7 +17,7 @@ int extraTime = 0;
 
 int main(void)
 {
-    init();
+    	init();
 	timerSetup();
     while (1) 
     {
