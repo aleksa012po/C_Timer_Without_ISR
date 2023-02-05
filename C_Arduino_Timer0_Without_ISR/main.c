@@ -2,7 +2,7 @@
  * C_Arduino_Interrupt_Without_ISR.c
  *
  * Created: 24.11.2022. 12:29:09
- * Author : user
+ * Author : Aleksandar Bogdanovic
  */ 
 
 #define F_CPU 16000000							// 16MHz
